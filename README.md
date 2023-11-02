@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Build a functioning to-do list application
-- Suppress a default action with `event.preventDefault()`
+- Suppress a default action with `event.preventDefault()` <- this is very easy
 
 ## Introduction
 
